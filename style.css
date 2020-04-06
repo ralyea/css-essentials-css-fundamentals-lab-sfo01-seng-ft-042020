@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.a {
+  text-align: center;
+}
+
+.b {
+  text-align: center;
+}
+
+.c {
+  text-align: center;
+} 
+
+.d {
+  text-align: justify;
+} 
+
+
